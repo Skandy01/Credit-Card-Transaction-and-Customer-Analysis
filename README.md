@@ -3,7 +3,10 @@
 
 ### Project Objective
 
-To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
+1. To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
+
+2. This project involves creating two Power BI dashboards: the Credit Card Transaction Report and the Credit Card Customer Report. The data was initially in CSV format and was converted to SQL for better data manipulation and storage. The final dashboards provide valuable insights into credit card usage, customer demographics, and financial performance.
+   
 
 ### Project Insights- Week 53 (31st Dec)
 
